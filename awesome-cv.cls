@@ -158,7 +158,7 @@
 
 % Boolean value to switch section color highlighting
 \newbool{acvSectionColorHighlight}
-\setbool{acvSectionColorHighlight}{true}
+\setbool{acvSectionColorHighlight}{false}
 
 %-------------------------------------------------------------------------------
 %                Configuration for fonts
