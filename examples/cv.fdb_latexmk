@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1786361878 "/home/frederic/Documents/cv/cv_P-G/Awesome-CV/examples/cv.tex" "/home/frederic/Documents/cv/cv_P-G/Awesome-CV/examples/cv.pdf" "cv" 1786361992
+["pdflatex"] 1787139074 "/home/frederic/Documents/cv/cv_P-G/Awesome-CV/examples/cv.tex" "/home/frederic/Documents/cv/cv_P-G/Awesome-CV/examples/cv.pdf" "cv" 1787139074
   "/etc/texmf/web2c/texmf.cnf" 1783582387 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/frederic/Documents/cv/cv_P-G/Awesome-CV/examples/cv.aux" 1786361878 8 a94a2480d3289e625eea47cd1b285758 ""
-  "/home/frederic/Documents/cv/cv_P-G/Awesome-CV/examples/cv.tex" 1786355798 3761 4e0f6b988cf89a532cf3c713fa06e89e ""
+  "/home/frederic/Documents/cv/cv_P-G/Awesome-CV/examples/cv.aux" 1787139074 8 a94a2480d3289e625eea47cd1b285758 ""
+  "/home/frederic/Documents/cv/cv_P-G/Awesome-CV/examples/cv.tex" 1787138880 3748 571129024b902d1269f34b77e0251720 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1480098701 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1480098815 1458 43ab4710dc82f3edeabecd0d099626b2 ""
@@ -41,7 +41,7 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1520210507 32485 c64754543d8ac501bea6e75e209ea521 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1783582447 4127357 bcbf5da5691b4f042eb0fe2607ff6f2a ""
   "awesome-cv.cls" 1786355095 32113 da2cd2d7c8b92d440c5b2120045fe577 ""
-  "cv.tex" 1786355798 3761 4e0f6b988cf89a532cf3c713fa06e89e ""
+  "cv.tex" 1787138880 3748 571129024b902d1269f34b77e0251720 ""
   (generated)
   "cv.log"
   "/home/frederic/Documents/cv/cv_P-G/Awesome-CV/examples/cv.pdf"
