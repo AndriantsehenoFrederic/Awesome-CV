@@ -1,0 +1,10 @@
+Bonjour,
+
+Je souhaite vous proposer ma candidature pour le poste d’Ingénieur IA / Développeur IA. Vos projets autour de l’IA générative, des assistants intelligents et du RAG correspondent directement à ce que j’ai développé lors de mon stage de fin d’études chez Inria Bordeaux.
+
+J’y ai conçu en autonomie, avec le suivi de mes encadrants, un assistant IA destiné aux chercheurs, en développant des API Python/FastAPI, un pipeline RAG et une interface web. J’aimerais mettre cette expérience au service de vos projets, tout en continuant à apprendre auprès de vos équipes. Je suis très motivé par la perspective de rejoindre GUARANI et de contribuer à des solutions IA utiles et fiables.
+
+Disponible dès octobre 2026, je serais ravi d’échanger avec vous.
+
+Bien cordialement,
+Frédéric Andrian
