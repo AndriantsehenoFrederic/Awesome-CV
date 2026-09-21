@@ -1,0 +1,10 @@
+Bonjour à l’équipe Ippon,
+
+Je souhaite rejoindre votre Practice Software Engineering pour contribuer au développement d’applications web et continuer à progresser au contact d’une équipe qui valorise le partage et la qualité du logiciel.
+
+Lors de mon stage chez Inria Bordeaux, j’ai conçu et développé en autonomie, avec le suivi de mes encadrants, une application destinée aux chercheurs. J’ai réalisé des API REST en Python/FastAPI et une interface React/Next.js, conteneurisé certains outils avec Docker et mis en place un pipeline CI/CD sur GitHub. Cette expérience m’a donné envie de poursuivre dans le développement web, sur des produits utiles et des problématiques techniques variées.
+
+Très motivé à l’idée d’apprendre et de contribuer à vos projets, je serais ravi d’échanger avec vous. Je serai disponible dès début octobre 2026.
+
+Bien cordialement,
+Frédéric Andrian

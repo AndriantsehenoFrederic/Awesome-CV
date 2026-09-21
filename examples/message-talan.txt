@@ -1,0 +1,10 @@
+Bonjour à l’équipe Talan Sud-Ouest,
+
+Je recherche mon premier emploi dans la data à Bordeaux, avec l’envie de développer mes compétences en ingénierie des données au contact d’une équipe expérimentée et de projets clients variés.
+
+Actuellement en fin de stage chez Inria Bordeaux, je développe notamment des services en Python, un outil de collecte automatisée de métadonnées scientifiques et un pipeline RAG documentaire. Cette expérience m’a donné le goût de concevoir des solutions fiables et utiles à leurs utilisateurs. Je souhaite aujourd’hui mettre à profit mes compétences en Python et SQL, tout en continuant à apprendre auprès du pôle Data & IA de Talan.
+
+Disponible dès début octobre 2026, je serais ravi d’échanger avec vous sur mon parcours et sur les possibilités de rejoindre votre équipe bordelaise.
+
+Bien cordialement,
+Frédéric Andrian

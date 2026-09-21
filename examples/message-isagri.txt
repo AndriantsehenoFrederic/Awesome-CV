@@ -1,0 +1,10 @@
+Bonjour,
+
+Je souhaite vous proposer ma candidature pour le poste de développeur au sein de l’équipe ISAGRI à Bordeaux. La création d’un ERP comptable enrichi par l’IA m’intéresse particulièrement : elle associe le développement logiciel à l’intelligence artificielle, sujet central de mon stage chez Inria, pour créer un produit utile aux utilisateurs.
+
+Lors de mon stage chez Inria Bordeaux, j’ai conçu et développé en autonomie, avec le suivi de mes encadrants, un assistant destiné aux chercheurs, de ses API en Python/FastAPI à son interface web. J’ai également utilisé C#, .NET et Entity Framework lors de projets réalisés pendant mes études. Très motivé, j’aimerais mettre cette expérience au service de votre équipe et continuer à progresser à ses côtés.
+
+Je serai disponible dès début octobre 2026 et serais ravi d’échanger avec vous.
+
+Bien cordialement,
+Frédéric Andrian
