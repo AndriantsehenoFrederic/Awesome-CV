@@ -1,0 +1,17 @@
+Objet : Candidature à la thèse CIFRE GraphRAG
+
+Madame, Monsieur,
+
+Je souhaite vous présenter ma candidature à la thèse CIFRE menée par le LIASD et Stellantis sur les graphes de connaissances, le GraphRAG et les grands modèles de langage. Ce sujet rejoint mon expérience récente et mon souhait de poursuivre dans la recherche sur les LLM, avec un intérêt particulier pour la mémoire des systèmes agentiques.
+
+Je viens de terminer mon stage de fin d’études à Inria Bordeaux, où j’ai conçu et développé, en autonomie et avec le suivi de mes encadrants, un agent d’IA multi-étapes destiné aux chercheurs. Ce travail m’a amené à intégrer l’API OpenAI, à orchestrer des outils et à mettre en place un pipeline RAG documentaire. J’ai également comparé plusieurs LLM sur une infrastructure HPC et rédigé un article scientifique présentant le protocole et les résultats de cette évaluation.
+
+Pendant le développement de l’agent, nous avons accordé une attention particulière à la gestion de sa mémoire. Cette problématique m’a fortement intéressé et me passionne encore aujourd’hui : comment conserver et retrouver les connaissances pertinentes pour que l’agent puisse les exploiter au bon moment ? Je pense que cette question est essentielle pour mieux tirer parti des LLM dans les systèmes agentiques. Votre sujet de thèse me donnerait l’occasion de l’approfondir à travers les graphes de connaissances et le GraphRAG, en étudiant aussi la fiabilité, la provenance et l’explicabilité des informations utilisées.
+
+Je souhaite poursuivre dans la recherche parce qu’elle me permet d’explorer des questions ouvertes, d’apprendre continuellement de nouvelles méthodes et d’évaluer mes idées avec rigueur. La dimension CIFRE m’attire particulièrement : elle offre la possibilité de relier des questions scientifiques à des besoins industriels concrets et à des données réelles. Mon expérience à Inria m’a conforté dans mon envie de travailler à cette interface entre recherche et application.
+
+Disponible dès octobre 2026, je serais heureux d’échanger avec vous sur ma candidature et sur les orientations possibles de cette thèse.
+
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+
+Frédéric Andrian

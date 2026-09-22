@@ -1,0 +1,10 @@
+Bonjour à l’équipe Safran Aircraft Engines,
+
+Je souhaite vous proposer ma candidature pour le poste d’Ingénieur Data & Cloud Back-End. Lors de mon stage de fin d’études chez Inria Bordeaux, j’ai développé des API REST en Python/FastAPI avec MongoDB et OpenAPI, ainsi qu’une application web conteneurisée avec Docker. J’ai aussi mis en place un pipeline CI/CD sur GitHub.
+
+J’aimerais rejoindre le secteur de l’aéronautique, qui me passionne depuis toujours. Pendant mes études, j’ai notamment réalisé plusieurs projets liés à ce domaine, autour de simulateurs de vol comme DCS. La possibilité de contribuer aux produits et services numériques de Safran Aircraft Engines serait donc particulièrement motivante pour moi.
+
+Disponible dès octobre 2026, je serais ravi d’échanger avec vous.
+
+Bien cordialement,
+Frédéric Andrian

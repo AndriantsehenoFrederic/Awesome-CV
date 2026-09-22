@@ -1,0 +1,10 @@
+Bonjour,
+
+Je souhaite vous proposer ma candidature pour cette mission à la croisée de l’IA générative et de l’industrialisation. Lors de mon stage de fin d’études chez Inria Bordeaux, j’ai conçu un agent IA multi-étapes, développé des services Python/FastAPI et un pipeline RAG, puis conteneurisé certains outils avec Docker et mis en place un pipeline CI/CD sur GitHub.
+
+J’aimerais poursuivre dans cette voie et approfondir mes compétences en déploiement de solutions IA dans le cloud, notamment autour de GCP et Vertex AI. Curieux et autonome, je suis motivé à l’idée de contribuer à vos projets et d’apprendre auprès de vos équipes Cloud, Data et DevOps.
+
+Disponible dès octobre 2026, je serais ravi d’échanger avec vous.
+
+Bien cordialement,
+Frédéric Andrian
