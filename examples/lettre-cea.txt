@@ -1,0 +1,17 @@
+Madame, Monsieur,
+
+Je souhaite vous présenter ma candidature afin de rejoindre le CEA et de contribuer à ses activités dans les domaines de l’intelligence artificielle et de l’informatique scientifique. L’environnement de recherche du CEA, la diversité des problématiques abordées et la possibilité de participer à des projets scientifiques ambitieux correspondent pleinement à mes aspirations professionnelles.
+
+Je viens de terminer mon stage de fin d’études à Inria Bordeaux, réalisé dans le cadre de mon diplôme d’ingénieur en intelligence artificielle et sciences cognitives à l’ENSC, Bordeaux INP. Au cours de ce stage, j’ai conçu et développé en autonomie, avec le suivi de mes encadrants, un agent IA multi-étapes destiné à aider les chercheurs à trouver des articles scientifiques. J’ai développé des services et des API REST en Python avec FastAPI, créé un pipeline RAG et conteneurisé certains outils avec Docker.
+
+J’ai également comparé plusieurs grands modèles de langage sur une infrastructure HPC utilisant Slurm. Cette étude portait notamment sur leur latence, le temps de génération du premier token et la qualité de leurs réponses en fonction de la taille du contexte. J’ai défini le protocole expérimental, analysé les résultats et participé à la rédaction d’un article scientifique. Cette expérience m’a permis de renforcer mes compétences techniques, mon autonomie et ma rigueur dans l’évaluation de solutions d’intelligence artificielle.
+
+Je souhaite poursuivre mon parcours dans la recherche, car ce domaine me permet d’explorer des problématiques variées, de continuer à apprendre et de transformer des idées en solutions concrètes. Rejoindre le CEA représenterait pour moi l’occasion de travailler au contact d’équipes scientifiques expérimentées, de découvrir de nouveaux sujets et de contribuer à des projets ayant une portée technologique et scientifique importante.
+
+Curieux, autonome et motivé, je souhaite mettre mes compétences en intelligence artificielle, Python, PyTorch, Linux, Docker et calcul HPC au service du CEA. Je serais également heureux d’approfondir mes connaissances et de progresser au sein d’un environnement exigeant et stimulant.
+
+Je serais ravi de pouvoir échanger avec vous sur mon parcours, mes motivations et les possibilités de rejoindre vos équipes.
+
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+
+Frédéric Andrian

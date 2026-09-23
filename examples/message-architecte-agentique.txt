@@ -1,0 +1,10 @@
+Bonjour à l’équipe Computer Futures,
+
+Je souhaite vous proposer ma candidature pour la mission Architecte IA Agentique. Lors de mon stage de fin d’études chez Inria Bordeaux, j’ai conçu et développé en autonomie un agent IA multi-étapes destiné aux chercheurs, avec des outils, des API Python/FastAPI et un pipeline RAG. J’ai également travaillé sur son intégration avec Docker et CI/CD ainsi que sur l’évaluation de plusieurs LLM.
+
+Cette expérience m’a donné envie d’approfondir la conception de systèmes agentiques fiables, leur intégration aux outils existants et leur évaluation. Le chantier IA4IT représente pour moi une occasion motivante de contribuer à ces sujets et de continuer à apprendre auprès de vos équipes.
+
+Je serais ravi d’échanger avec vous.
+
+Bien cordialement,
+Frédéric Andrian

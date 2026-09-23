@@ -1,0 +1,57 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\documentclass[11pt, a4paper]{awesome-cv}
+
+\geometry{left=1.6cm, top=.8cm, right=1.6cm, bottom=1.7cm, footskip=.5cm}
+\setbool{acvSectionColorHighlight}{false}
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+\providecommand{\faSquareGithub}{\faGithub}
+
+\photo[circle,edge,left]{profile.jpeg}
+\name{Frédéric}{Andrian}
+\position{Ingénieur en intelligence artificielle}
+\address{Bordeaux, France}
+\mobile{(+33) 769875327}
+\email{fredericj.andrian@gmail.com}
+\github{AndriantsehenoFrederic}
+\linkedin{FredericAndriantseheno}
+
+\recipient
+  {Service recrutement}
+  {Commissariat à l’énergie atomique et aux énergies alternatives}
+\letterdate{23 septembre 2026}
+\lettertitle{Candidature pour rejoindre le CEA}
+\letteropening{Madame, Monsieur,}
+\letterclosing{Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.}
+\letterenclosure[Pièce jointe]{Curriculum Vitae}
+
+\begin{document}
+
+\makecvheader[R]
+\makecvfooter
+  {23 septembre 2026}
+  {F. Andrian~~~·~~~Lettre de motivation}
+  {}
+
+\makelettertitle
+
+\begin{cvletter}
+
+Je souhaite rejoindre le CEA et contribuer à ses activités dans les domaines de l’intelligence artificielle et de l’informatique scientifique. Son environnement de recherche, la diversité des problématiques abordées et la possibilité de participer à des projets scientifiques ambitieux correspondent pleinement à mes aspirations professionnelles.
+
+Je viens de terminer mon stage de fin d’études à Inria Bordeaux, réalisé dans le cadre de mon diplôme d’ingénieur en intelligence artificielle et sciences cognitives à l’ENSC, Bordeaux INP. Au cours de ce stage, j’ai conçu et développé en autonomie, avec le suivi de mes encadrants, un agent IA multi-étapes destiné à aider les chercheurs à trouver des articles scientifiques. J’ai développé des services et des API REST en Python avec FastAPI, créé un pipeline RAG et conteneurisé certains outils avec Docker.
+
+J’ai également comparé plusieurs grands modèles de langage sur une infrastructure HPC utilisant Slurm. Cette étude portait notamment sur leur latence, le temps de génération du premier token et la qualité de leurs réponses en fonction de la taille du contexte. J’ai défini le protocole expérimental, analysé les résultats et participé à la rédaction d’un article scientifique. Cette expérience m’a permis de renforcer mes compétences techniques, mon autonomie et ma rigueur dans l’évaluation de solutions d’intelligence artificielle.
+
+Je souhaite poursuivre mon parcours dans la recherche, car ce domaine me permet d’explorer des problématiques variées, de continuer à apprendre et de transformer des idées en solutions concrètes. Rejoindre le CEA représenterait pour moi l’occasion de travailler au contact d’équipes scientifiques expérimentées, de découvrir de nouveaux sujets et de contribuer à des projets ayant une portée technologique et scientifique importante.
+
+Curieux, autonome et motivé, je souhaite mettre mes compétences en intelligence artificielle, Python, PyTorch, Linux, Docker et calcul HPC au service du CEA. Je serais également heureux d’approfondir mes connaissances et de progresser au sein d’un environnement exigeant et stimulant.
+
+Je serais ravi de pouvoir échanger avec vous sur mon parcours, mes motivations et les possibilités de rejoindre vos équipes.
+
+\end{cvletter}
+
+\makeletterclosing
+
+\end{document}

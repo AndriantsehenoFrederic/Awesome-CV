@@ -1,0 +1,31 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\documentclass[11pt, a4paper]{awesome-cv}
+
+\geometry{left=1.4cm, top=.4cm, right=1.4cm, bottom=1.2cm, footskip=.5cm}
+\setbool{acvSectionColorHighlight}{false}
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+\renewcommand{\acvSectionTopSkip}{1mm}
+\renewcommand{\acvSectionContentTopSkip}{1.5mm}
+\providecommand{\faSquareGithub}{\faGithub}
+
+\photo[circle,edge,left]{profile.jpeg}
+\name{Frédéric}{Andrian}
+\position{Ingénieur IA et informatique scientifique{\enskip\cdotp\enskip}HPC}
+\address{Bordeaux, France}
+\mobile{(+33) 769875327}
+\email{fredericj.andrian@gmail.com}
+\github{AndriantsehenoFrederic}
+\linkedin{FredericAndriantseheno}
+
+\begin{document}
+\makecvheader
+\vspace{-0.5mm}
+\makecvfooter{}{F. Andrian~~~·~~~Curriculum Vitae}{}
+
+\input{cv-cea-hpc/summary.tex}
+\input{cv-cea-hpc/experience.tex}
+\input{cv-cea-hpc/skills.tex}
+\input{cv-cea-hpc/education.tex}
+\end{document}
