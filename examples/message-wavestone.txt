@@ -1,0 +1,10 @@
+Bonjour à l’équipe Wavestone,
+
+Je souhaite vous proposer ma candidature pour le poste de Consultant Data et IA au sein de la Business Unit TIME. Mes deux stages de recherche m’ont permis d’élargir mes connaissances et de découvrir différentes applications de l’intelligence artificielle, de la conception d’un agent IA pour les chercheurs à la navigation autonome d’un robot hospitalier par apprentissage par renforcement.
+
+Lors de mon stage chez Inria Bordeaux, j’ai développé en autonomie une solution complète comprenant les outils de l’agent, des API Python/FastAPI, un pipeline RAG et une interface web. Je suis très motivé par la possibilité de mettre cette expérience au service de problématiques métiers variées et de continuer à apprendre au contact de vos équipes et de clients issus de secteurs stratégiques.
+
+Je serais ravi d’échanger avec vous.
+
+Bien cordialement,
+Frédéric Andrian
