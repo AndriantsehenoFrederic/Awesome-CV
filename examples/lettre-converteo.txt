@@ -1,0 +1,19 @@
+Objet : Candidature pour rejoindre l’équipe Transformation IA
+
+Madame, Monsieur,
+
+Je souhaite vous proposer ma candidature afin de rejoindre l’équipe Transformation IA de Converteo. Votre approche, qui associe compréhension des enjeux métiers, choix technologiques et déploiement de solutions concrètes, correspond à la direction que je souhaite donner à mon parcours.
+
+Je viens de terminer mon stage de fin d’études à Inria Bordeaux, réalisé dans le cadre de ma formation d’ingénieur en intelligence artificielle et sciences cognitives à l’ENSC, Bordeaux INP. J’y ai conçu et développé en autonomie, avec le suivi de mes encadrants, un agent IA multi-étapes destiné à aider les chercheurs à trouver des articles scientifiques. J’ai créé et orchestré les outils de l’agent, développé des API en Python avec FastAPI, mis en œuvre un pipeline RAG et réalisé une interface React/Next.js.
+
+Ce stage m’a aussi amené à comparer plusieurs LLM selon leur latence et la qualité de leurs réponses. J’ai ensuite synthétisé le protocole expérimental et les résultats dans un article scientifique. Cette expérience m’a appris à analyser les limites d’une solution, à comparer différentes approches et à faire évoluer un système à partir de résultats concrets.
+
+Je souhaite désormais mieux comprendre comment choisir et utiliser l’intelligence artificielle en fonction du contexte, des besoins métiers et des contraintes de chaque organisation. Rejoindre Converteo me permettrait de découvrir des problématiques variées, de développer une vision plus complète de la transformation par l’IA et d’apprendre auprès de consultants et d’experts expérimentés.
+
+Curieux, autonome et motivé, je serais heureux de mettre mes compétences techniques et mon expérience de l’IA générative au service de vos missions.
+
+Je serais ravi de pouvoir échanger avec vous sur ma candidature.
+
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+
+Frédéric Andrian
