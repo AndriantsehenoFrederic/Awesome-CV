@@ -1,0 +1,19 @@
+Objet : Candidature au poste d’AI Engineer
+
+Madame, Monsieur,
+
+Je souhaite vous proposer ma candidature au poste d’AI Engineer chez Corma. Je viens de terminer mon stage de fin d’études à Inria Bordeaux dans le cadre de ma formation d’ingénieur en intelligence artificielle et sciences cognitives à l’ENSC, Bordeaux INP. Je souhaite aujourd’hui poursuivre dans le développement de solutions agentiques et participer à la création de produits d’IA répondant à des besoins concrets.
+
+La mission de Corma m’intéresse particulièrement par son application directe de l’IA et de l’automatisation aux difficultés quotidiennes des équipes informatiques. La réunion de la gestion des licences et des accès au sein d’une même plateforme, l’automatisation de l’arrivée et du départ des utilisateurs ainsi que le déploiement d’agents pour réduire les tâches manuelles montrent une volonté de produire des résultats immédiatement utiles. J’apprécie cette approche qui associe innovation technique, simplicité d’utilisation, sécurité et impact mesurable pour les clients.
+
+Lors de mon stage à Inria, j’ai conçu et développé en autonomie, avec le suivi de mes encadrants, un agent IA multi-étapes destiné à aider les chercheurs à trouver des articles scientifiques. Je suis intervenu sur l’ensemble de la solution afin d’aboutir à un résultat fonctionnel. J’ai créé et orchestré les outils de l’agent, intégré l’API OpenAI, développé des services et des API REST en Python avec FastAPI, mis en œuvre un pipeline RAG avec ChromaDB et réalisé une interface React/Next.js. J’ai également conteneurisé certains outils avec Docker et mis en place un pipeline CI/CD sur GitHub.
+
+Cette expérience m’a aussi amené à comparer plusieurs LLM selon leur latence, leur temps de génération du premier token et la qualité de leurs réponses. J’ai défini le protocole expérimental, analysé les résultats et participé à la rédaction d’un article scientifique. Elle m’a appris à explorer de nouvelles approches, à vérifier leur pertinence par l’expérimentation et à transformer une idée en une application utilisable.
+
+Rejoindre une startup comme Corma représente pour moi une occasion de progresser rapidement au contact d’une équipe expérimentée, tout en contribuant directement à l’évolution d’un produit. La diversité des sujets, l’autonomie accordée et la proximité entre la recherche, le développement et les besoins des utilisateurs me permettraient d’élargir mes compétences et de mieux comprendre les contraintes réelles rencontrées par les systèmes d’IA en production. Je serais particulièrement motivé à participer au développement de vos agents et de vos prochaines fonctionnalités liées à la recommandation, à la qualité des données et à l’aide à la décision.
+
+Curieux, autonome et motivé, je serais heureux de mettre mon expérience des agents IA, du RAG, de Python et de l’évaluation de modèles au service de Corma. Je serais ravi de pouvoir échanger avec vous sur ma candidature et sur les projets de votre équipe.
+
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+
+Frédéric Andrian
