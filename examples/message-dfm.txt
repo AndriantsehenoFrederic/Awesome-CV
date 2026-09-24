@@ -1,0 +1,8 @@
+Bonjour,
+
+Je souhaite vous proposer ma candidature au poste d’Ingénieur IA. Lors de mon stage de fin d’études à Inria, j’ai conçu et développé en autonomie, avec le suivi de mes encadrants, un agent IA de bout en bout destiné à aider les chercheurs à trouver des articles scientifiques. J’ai pris en charge le backend en Python/FastAPI, l’interface React/Next.js, le pipeline RAG, les outils de l’agent, les API et la conteneurisation afin d’aboutir à une solution fonctionnelle.
+
+Je souhaite aujourd’hui poursuivre dans le développement de solutions agentiques concrètes et utiles, tout en approfondissant leur intégration et leur déploiement dans des contextes métier variés. Votre offre correspond directement à cette orientation et je serais très motivé à rejoindre votre équipe.
+
+Cordialement,
+Frédéric Andrian
