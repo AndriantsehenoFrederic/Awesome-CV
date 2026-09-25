@@ -1,0 +1,6 @@
+Bonjour,
+
+Passionné de jeux vidéo depuis toujours, notamment de Rainbow Six Siege, rejoindre Ubisoft représente pour moi une grande source de motivation. Mon stage de fin d’études à Inria m’a permis de développer un agent IA fonctionnel de bout en bout, de mettre en œuvre un pipeline RAG et d’évaluer plusieurs LLM. Je serais très heureux de mettre cette expérience au service de nouvelles fonctionnalités de gameplay et de contribuer aux projets d’IA générative de vos équipes.
+
+Cordialement,
+Frédéric Andrian
