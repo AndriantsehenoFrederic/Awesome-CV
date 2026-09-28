@@ -1,0 +1,17 @@
+Objet : Candidature au poste de Consultant Développeur Python
+
+Madame, Monsieur,
+
+Je souhaite vous proposer ma candidature au poste de Consultant Développeur Python au sein de Niji. Je viens de terminer mon stage de fin d’études à Inria Bordeaux dans le cadre de ma formation d’ingénieur en intelligence artificielle et sciences cognitives à l’ENSC, Bordeaux INP.
+
+Au cours de ce stage, j’ai développé en autonomie, avec le suivi de mes encadrants, une application web complète destinée à aider les chercheurs à trouver des articles scientifiques. J’ai pris en charge le backend en Python avec FastAPI, la création des API REST, la gestion des données avec MongoDB ainsi que le frontend en React et Next.js. J’ai également développé un outil de collecte automatisée de métadonnées scientifiques, mis en place des webhooks pour transmettre les résultats de tâches planifiées et intégré un pipeline RAG fondé sur les embeddings et la recherche sémantique.
+
+Cette expérience m’a permis de transformer un besoin utilisateur en une solution fonctionnelle de bout en bout, tout en renforçant mon autonomie et ma capacité à découvrir de nouvelles technologies. J’ai aussi conteneurisé certains outils avec Docker, mis en place une CI/CD sur GitHub et documenté mes expérimentations dans un article scientifique.
+
+Je souhaite aujourd’hui poursuivre dans le développement Python et participer à des projets Data et IA concrets. La diversité des expertises de Niji, la collaboration entre les équipes et les possibilités de formation correspondent à l’environnement dans lequel je souhaite progresser et mettre mes compétences au service de vos clients.
+
+Je serais ravi de pouvoir échanger avec vous sur ma candidature.
+
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+
+Frédéric Andrian
