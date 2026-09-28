@@ -1,0 +1,19 @@
+Madame, Monsieur,
+
+Je souhaite vous proposer ma candidature au poste d’Ingénieur scientifique contractuel consacré à la production, au traitement et à l’analyse de données pour le projet Interpersonality. Je viens de terminer mon stage de fin d’études au sein de l’équipe Mnémosyne d’INRIA Bordeaux, dans le cadre de ma formation d’ingénieur en intelligence artificielle et sciences cognitives à l’ENSC, Bordeaux INP.
+
+Lors de ce stage, j’ai conçu et développé en autonomie, avec le suivi de mes encadrants, un agent IA multi-étapes destiné à aider les chercheurs à trouver des articles scientifiques. J’ai développé des outils Python de collecte de données, des services et des API REST avec FastAPI, une base MongoDB ainsi qu’un pipeline documentaire fondé sur les embeddings et la recherche sémantique.
+
+J’ai également utilisé à plusieurs reprises des infrastructures HPC pour différents travaux menés pendant mon stage. Avec Slurm, j’ai notamment déployé et comparé plusieurs modèles de langage, dont Qwen, Gemma et GLM. J’ai étudié leur latence, leur temps de génération du premier token et la qualité de leurs réponses selon la taille du contexte. J’ai aussi évalué différentes configurations de quantification afin d’identifier le meilleur compromis entre performances d’inférence et qualité selon l’environnement d’exécution. Ces travaux m’ont appris à utiliser efficacement des ressources de calcul, à construire un protocole expérimental et à analyser rigoureusement les résultats.
+
+J’ai ensuite participé à la rédaction d’un article scientifique présentant la méthodologie et les résultats obtenus. Cette expérience a renforcé mon intérêt pour la recherche, un domaine dans lequel je souhaite poursuivre mon parcours. J’apprécie particulièrement la possibilité d’explorer de nouvelles problématiques, d’apprendre continuellement et d’acquérir de nouvelles compétences techniques et méthodologiques.
+
+Le projet Interpersonality m’intéresse par son rapprochement entre intelligence artificielle, sciences cognitives et analyse des interactions humaines. La possibilité de travailler sur la transcription automatique, les données multimodales et la détection de la connivence représente pour moi l’occasion de mobiliser mes connaissances en Machine Learning et en NLP, tout en développant de nouvelles compétences dans le traitement de la parole, de l’audio et de la vidéo.
+
+Autonome, curieux et rigoureux, je serais heureux de contribuer à la fiabilisation de la chaîne de traitement, à l’évaluation des modèles et à la documentation scientifique du projet aux côtés des équipes de recherche et des partenaires.
+
+Je serais ravi de pouvoir échanger avec vous sur ma candidature.
+
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+
+Frédéric Andriantseheno

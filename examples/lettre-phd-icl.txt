@@ -1,0 +1,21 @@
+Objet : Candidature à la thèse In-Context Learning for Multivariate Prediction
+
+Madame, Monsieur,
+
+Je souhaite vous proposer ma candidature à la thèse intitulée « In-Context Learning for Multivariate Prediction ». Je viens de terminer mon stage de fin d’études au sein de l’équipe Mnémosyne d’INRIA Bordeaux, dans le cadre de ma formation d’ingénieur en intelligence artificielle et sciences cognitives à l’ENSC, Bordeaux INP. Je suis disponible à partir de mi-octobre 2026.
+
+Mon parcours a commencé par deux années de classe préparatoire PCSI puis PSI. Cette formation exigeante m’a apporté de solides bases en mathématiques et en physique, ainsi qu’une méthode de travail rigoureuse. Elle m’a appris à formaliser des problèmes complexes, à raisonner avec précision et à persévérer face à des questions difficiles. J’ai ensuite choisi de poursuivre dans l’intelligence artificielle afin de mettre ces compétences au service de problématiques de recherche et de développement.
+
+Lors de mon stage de fin d’études chez INRIA, j’ai étudié plusieurs modèles de langage, dont Qwen, Gemma et GLM, sur une infrastructure HPC utilisant Slurm. J’ai construit un protocole expérimental pour comparer leur latence, leur temps de génération du premier token et la qualité de leurs réponses selon la taille du contexte. J’ai également évalué plusieurs configurations de quantification afin d’identifier le meilleur compromis entre performances d’inférence et qualité selon l’environnement d’exécution. Ce travail m’a conduit à analyser les résultats de manière méthodique et à participer à la rédaction d’un article scientifique.
+
+En parallèle, j’ai conçu et développé en autonomie, avec le suivi de mes encadrants, un agent IA multi-étapes destiné à aider les chercheurs à trouver des articles scientifiques. J’ai développé ses outils, un pipeline de recherche documentaire, des services Python avec FastAPI et une interface web. Mon précédent stage de recherche, réalisé à l’Université Karunya en Inde, portait sur la comparaison d’une approche déterministe et d’un modèle d’apprentissage par renforcement pour la navigation autonome d’un robot hospitalier.
+
+Le sujet proposé m’intéresse particulièrement par sa volonté de construire un modèle fondamental unique capable de traiter des tâches de classification et de régression sur des données de grande dimension. Les enjeux liés à l’In-Context Learning, aux architectures non paramétriques ou équivariantes et aux extensions multivariées constituent pour moi des problématiques stimulantes que je souhaite approfondir. Je suis également attiré par l’équilibre entre réflexion mathématique, expérimentation et production de logiciels de recherche de qualité.
+
+Je souhaite poursuivre dans la recherche car elle me permet d’explorer de nouvelles idées, d’apprendre continuellement et de développer de nouvelles compétences. La possibilité de formuler un problème de manière rigoureuse, de confronter des hypothèses à l’expérimentation et de partager les résultats dans des publications scientifiques correspond pleinement à la manière dont je souhaite construire mon parcours professionnel.
+
+Autonome, curieux et persévérant, je serais heureux de contribuer à ce projet et de travailler avec les équipes d’INRIA Grenoble ainsi qu’avec leurs partenaires. Je serais ravi de pouvoir échanger avec vous sur ma candidature et mes motivations.
+
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+
+Frédéric Andrian
