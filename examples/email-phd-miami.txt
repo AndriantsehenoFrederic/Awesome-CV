@@ -1,0 +1,21 @@
+Subject: Prospective PhD Student – Multi-Agent AI Safety, Security, and Privacy – Spring/Fall 2027
+
+Dear Professor Zyskind,
+
+I am writing to express my interest in the funded PhD opportunities in multi-agent AI safety, security, and privacy at the University of Miami. I am completing an MSc-equivalent engineering degree in Artificial Intelligence and Cognitive Science at ENSC, Bordeaux INP, and recently completed my final research internship with the Mnémosyne team at INRIA (French National Institute for Research in Digital Science and Technology) Bordeaux.
+
+During this internship, I independently designed and developed, with guidance from my supervisors, a multi-step LLM agent that helps researchers discover scientific papers. I built the agent without an orchestration framework in order to understand and control its tools, state, memory, context management, and execution mechanisms. I also implemented a RAG pipeline, developed Python and FastAPI services, and evaluated several open-source LLMs and quantization configurations on an HPC cluster. This work led me to define an experimental protocol, analyze the results, and contribute to a scientific manuscript.
+
+My two research internships, in agentic AI and reinforcement learning, confirmed my desire to continue in research. I value the opportunity to explore new questions, learn new methods, and continuously develop technical and scientific skills. AI is evolving particularly quickly, which makes research in this field both challenging and exciting. I am also attracted by the possibility of connecting ideas from different domains to understand complex systems and develop better solutions.
+
+Your work on multi-agent AI safety and security strongly interests me because I encountered related concerns while evaluating OpenClaw in an isolated Docker environment. We quickly observed how the autonomy and tool access of an agent can create concrete risks. An agent may, for example, delete or modify files that the user did not intend to change. This experience made me interested in understanding agent failure modes, defining meaningful system-level evaluations, and developing mechanisms that reduce harmful behavior without removing useful capabilities.
+
+Recent advances in increasingly capable agentic models make these questions especially timely and necessary. As agents gain access to more tools, data, and decision-making responsibilities, ensuring that their actions remain aligned with user intent becomes essential. My experience with RAG also makes me interested in privacy-preserving retrieval and in methods that allow agents to use sensitive information without exposing it.
+
+I would be very interested in discussing how my background and research interests could contribute to your lab. My CV is attached to this email. Thank you for your time and consideration.
+
+Best regards,
+
+Frédéric Andrian
+fredericj.andrian@gmail.com
+(+33) 7 69 87 53 27
