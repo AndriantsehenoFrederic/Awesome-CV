@@ -1,0 +1,21 @@
+Dear 12Build Hiring Team,
+
+I am applying for the Agentic Platform Engineer position at 12Build. I am completing an MSc-equivalent engineering degree in Artificial Intelligence and Cognitive Science at ENSC, Bordeaux INP, and recently completed my final internship with the Mnémosyne team at INRIA, the French National Institute for Research in Digital Science and Technology.
+
+During this internship, I independently designed and developed, with guidance from my supervisors, a multi-step agent that helps researchers discover scientific papers. I built it without an orchestration framework to understand and control tool execution, state, memory, context, and multi-step behavior. I integrated the OpenAI API, designed the agent’s tools, and implemented a RAG pipeline with embeddings, semantic search, and ChromaDB.
+
+I developed the Python and FastAPI backend, OpenAPI-documented REST APIs, MongoDB persistence, and a React and Next.js interface. I also Dockerized components, implemented GitHub CI/CD, and evaluated several LLMs and quantization configurations on an HPC cluster. Testing OpenClaw in an isolated Docker environment made me attentive to the reliability and security risks created when autonomous agents access tools and files.
+
+This experience gave me a strong desire to continue working on agentic systems. It showed me that their quality depends as much on the surrounding infrastructure as on the model itself. Tool management, memory, evaluation, execution controls, observability, and deployment practices are essential to make agents reliable. I now want to contribute to platforms that help AI teams develop and operate them effectively.
+
+I am particularly interested in 12Build’s investment in agentic infrastructure as a core part of its SaaS platform. Working on evaluation, tracing, model routing, tool registries, and deployment patterns matches the direction in which I want to develop my career. I also value the impact of a platform used across the European construction sector and the autonomy encouraged by your international environment.
+
+My experience has given me practical foundations in agent design, Python services, APIs, Docker, CI/CD, and model evaluation. I am eager to develop my cloud and DevOps skills while contributing my autonomy, curiosity, and research mindset. I am available from November 2026 and motivated to grow within an international company.
+
+Thank you for considering my application. I would welcome the opportunity to discuss my motivation and interest in 12Build’s agentic platform.
+
+Best regards,
+
+Frédéric Andrian
+fredericj.andrian@gmail.com
+(+33) 7 69 87 53 27
