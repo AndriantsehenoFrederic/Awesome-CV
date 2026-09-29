@@ -1,0 +1,27 @@
+Subject: Application for the Junior AI/ML Agent Engineer Position
+
+Dear Hiring Team,
+
+I am writing to apply for the Junior AI/ML Agent Engineer position at eBay in Dublin. I am completing an MSc-equivalent engineering degree in Artificial Intelligence and Cognitive Science at ENSC, Bordeaux INP, and recently completed my final research internship with the Mnémosyne team at INRIA (French National Institute for Research in Digital Science and Technology) Bordeaux.
+
+During this internship, I independently designed and developed, with guidance from my supervisors, an end-to-end multi-step AI agent that helps researchers discover scientific papers. I deliberately built the agent without an orchestration framework so that I could understand and control its core mechanisms, including tool execution, state, memory, context management, and multi-step workflows. I integrated the OpenAI API and designed the tools used by the agent to retrieve information and complete successive tasks.
+
+I was responsible for the Python and FastAPI backend, REST APIs documented with OpenAPI, and MongoDB persistence. I also implemented a RAG pipeline using document chunking, embeddings, semantic search, and ChromaDB. To support integration and deployment, I Dockerized selected tools and implemented a CI/CD pipeline on GitHub. This project gave me practical experience building the backend and data components of an agent application from an initial user need to a functional solution.
+
+I also evaluated OpenClaw in an isolated Docker environment. This work made me particularly attentive to the reliability and safety of autonomous agents, especially when they can access tools and files. It strengthened my interest in execution controls, validation mechanisms, and safeguards that keep agent behavior aligned with user intent.
+
+Alongside this agent project, I benchmarked Qwen, Gemma, and GLM on an HPC cluster and evaluated multiple quantization configurations according to latency, TTFT, response quality, and context size. I defined an experimental protocol, analyzed the results, and contributed to a scientific manuscript. These experiences developed my ability to evaluate technical choices rigorously and communicate their practical limitations.
+
+My academic and personal software projects have also allowed me to work with Java and explore several application stacks. Although my recent backend experience has mainly used Python and FastAPI, I am motivated to deepen my knowledge of Spring Boot and MCP while applying the API design, agent orchestration, and software engineering foundations I have already developed.
+
+I am also highly motivated to work abroad and gain further international experience. After completing a research internship in India, I discovered how valuable it is to work with people from different backgrounds and adapt to a new environment. Working in Ireland would give me the opportunity to use English every day, discover a new professional culture, and continue developing both my technical and communication skills within an international team.
+
+I am particularly interested in eBay because of the opportunity to build agent services at global scale within a company where reliability, security, and user impact are essential. I would be excited to contribute to developer-focused automations while learning from experienced backend, platform, and AI engineers.
+
+Thank you for considering my application. I would welcome the opportunity to discuss how my experience and motivation could contribute to your team.
+
+Best regards,
+
+Frédéric Andrian
+fredericj.andrian@gmail.com
+(+33) 7 69 87 53 27
