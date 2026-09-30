@@ -1,0 +1,32 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\documentclass[10pt, a4paper]{awesome-cv}
+
+\geometry{left=1.4cm, top=.4cm, right=1.4cm, bottom=1.2cm, footskip=.5cm}
+\setbool{acvSectionColorHighlight}{false}
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+\renewcommand{\acvSectionTopSkip}{1mm}
+\renewcommand{\acvSectionContentTopSkip}{1.5mm}
+\providecommand{\faSquareGithub}{\faGithub}
+
+\photo[circle,edge,left]{profile.jpeg}
+\name{Frédéric}{Andrian}
+\position{Développeur .NET junior{\enskip\cdotp\enskip}C\#, API et applications web}
+\address{Bordeaux, France}
+\mobile{(+33) 769875327}
+\email{fredericj.andrian@gmail.com}
+\github{AndriantsehenoFrederic}
+\linkedin{FredericAndriantseheno}
+
+\begin{document}
+\makecvheader
+\vspace{-0.5mm}
+\makecvfooter{}{F. Andrian~~~·~~~Curriculum Vitae}{}
+
+\input{cv-adexcel-dotnet/summary.tex}
+\input{cv-adexcel-dotnet/experience.tex}
+\input{cv-adexcel-dotnet/projects.tex}
+\input{cv-adexcel-dotnet/skills.tex}
+\input{cv-adexcel-dotnet/education.tex}
+\end{document}
