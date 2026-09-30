@@ -1,0 +1,21 @@
+Objet : Candidature au poste d’AI-Native Full-Stack Engineer
+
+Bonjour,
+
+Je souhaite vous faire part de mon intérêt pour le poste d’AI-Native Full-Stack Engineer à Nice.
+
+Je viens de terminer mon cursus d’ingénieur ainsi que mon stage de fin d’études à INRIA Bordeaux. Durant ce stage, j’ai transformé un besoin utilisateur en une application IA fonctionnelle développée de bout en bout. Cette solution comprenait un agent IA multi-étapes, des services Python et FastAPI, des API REST, une base MongoDB ainsi qu’une interface développée avec React et Next.js.
+
+J’ai construit l’agent sans framework d’orchestration afin de comprendre précisément son fonctionnement, notamment l’exécution des outils, la mémoire, la gestion du contexte et l’enchaînement des différentes étapes. J’ai également conçu et ajusté les prompts pour personnaliser son comportement selon le cas d’usage scientifique et guider l’utilisation de ses outils. Le projet incluait aussi un pipeline RAG, des webhooks, des tâches cron, la conteneurisation de composants avec Docker et une intégration continue sur GitHub.
+
+J’ai utilisé des outils de développement assisté par l’IA comme Codex ainsi que DeepSeek dans mes workflows afin d’accompagner le prototypage et l’amélioration du code. Cette pratique m’a appris à formuler des instructions précises, à analyser les propositions générées et à conserver un regard critique sur leur qualité avant leur intégration.
+
+Cette expérience m’a permis de gagner en autonomie et de conduire un projet depuis l’analyse du besoin jusqu’à l’obtention d’une solution utilisable. Mes stages dans la recherche m’ont également appris à avancer sur des problématiques initialement peu définies, à expérimenter rapidement et à analyser les résultats pour améliorer progressivement une solution.
+
+Votre offre m’intéresse particulièrement par son association entre développement full-stack, agents IA, prompt engineering et création rapide de POC. Je souhaite continuer à développer des applications avec Python, React et Next.js, tout en approfondissant les méthodes de développement assisté par l’IA ainsi que des outils comme Cursor ou Claude.
+
+Curieux, autonome et à l’aise en anglais, je serais heureux de rejoindre cette nouvelle équipe à Nice et de contribuer à la conception d’outils apportant une valeur concrète aux équipes métier.
+
+Cordialement,
+
+Frédéric Andrian

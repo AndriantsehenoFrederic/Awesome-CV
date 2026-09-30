@@ -1,0 +1,31 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\documentclass[10pt, a4paper]{awesome-cv}
+
+\geometry{left=1.4cm, top=.4cm, right=1.4cm, bottom=1.2cm, footskip=.5cm}
+\setbool{acvSectionColorHighlight}{false}
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+\renewcommand{\acvSectionTopSkip}{1mm}
+\renewcommand{\acvSectionContentTopSkip}{1.5mm}
+\providecommand{\faSquareGithub}{\faGithub}
+
+\photo[circle,edge,left]{profile.jpeg}
+\name{Frédéric}{Andrian}
+\position{AI Agent Engineer junior{\enskip\cdotp\enskip}LLM, RAG et intégration d’API}
+\address{Bordeaux, France}
+\mobile{(+33) 769875327}
+\email{fredericj.andrian@gmail.com}
+\github{AndriantsehenoFrederic}
+\linkedin{FredericAndriantseheno}
+
+\begin{document}
+\makecvheader
+\vspace{-0.5mm}
+\makecvfooter{}{F. Andrian~~~·~~~Curriculum Vitae}{}
+
+\input{cv-gestinnov-ai-agent/summary.tex}
+\input{cv-gestinnov-ai-agent/experience.tex}
+\input{cv-gestinnov-ai-agent/skills.tex}
+\input{cv-gestinnov-ai-agent/education.tex}
+\end{document}

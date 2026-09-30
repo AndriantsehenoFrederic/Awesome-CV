@@ -1,0 +1,24 @@
+Frédéric Andrian
+Bordeaux, France
+fredericj.andrian@gmail.com
+(+33) 7 69 87 53 27
+
+Objet : Candidature au poste d’AI Agent Engineer
+
+Madame, Monsieur,
+
+Je souhaite vous proposer ma candidature au poste d’AI Agent Engineer au sein de l’équipe Innovation de Gestinnov. Je viens de terminer mon cursus d’ingénieur en intelligence artificielle et sciences cognitives à l’ENSC, Bordeaux INP, ainsi que mon stage de fin d’études à INRIA Bordeaux. Je souhaite désormais poursuivre dans le développement d’agents IA répondant à des besoins métiers concrets.
+
+Pendant mon stage, j’ai conçu et développé en autonomie, avec le suivi de mes encadrants, un agent IA multi-étapes destiné à aider les chercheurs à trouver des articles scientifiques. À partir du besoin utilisateur, j’ai réalisé une solution fonctionnelle comprenant les outils de l’agent, un pipeline RAG, des services Python et FastAPI, des API REST, une base MongoDB ainsi qu’une interface React et Next.js.
+
+J’ai développé l’agent sans framework d’orchestration afin de comprendre précisément ses différents mécanismes, notamment l’exécution des outils, la gestion de l’état, de la mémoire et du contexte. J’ai également conçu et ajusté les prompts afin de personnaliser son comportement pour notre cas d’usage et de guider la sélection de ses outils. Ce travail m’a permis de mieux comprendre les possibilités des LLM, mais aussi leurs limites et les précautions nécessaires pour construire des agents fiables.
+
+Cette expérience m’a aussi amené à intégrer l’API OpenAI, à développer des webhooks et des tâches cron, puis à conteneuriser plusieurs composants avec Docker. J’ai mis en place une intégration continue sur GitHub et contribué à l’évaluation de plusieurs modèles. Ces missions m’ont appris à conduire un projet de bout en bout, à expérimenter de manière rigoureuse et à adapter une solution aux besoins de ses futurs utilisateurs.
+
+Le poste proposé par Gestinnov m’intéresse particulièrement car il associe agents IA, automatisation et intégration aux outils de gestion des entreprises. Je souhaite découvrir plus en profondeur les problématiques liées aux ERP et participer à la création de solutions capables d’améliorer concrètement les processus métiers. L’environnement international, l’équipe à taille humaine et la place accordée à l’innovation correspondent également au cadre dans lequel je souhaite commencer ma carrière.
+
+Autonome, curieux et à l’aise en anglais, je serais heureux de pouvoir échanger avec vous afin de vous présenter plus précisément mon parcours et ma motivation.
+
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+
+Frédéric Andrian
