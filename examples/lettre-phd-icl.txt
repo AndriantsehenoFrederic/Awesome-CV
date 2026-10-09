@@ -1,8 +1,6 @@
-Objet : Candidature à la thèse In-Context Learning for Multivariate Prediction
-
 Madame, Monsieur,
 
-Je souhaite vous proposer ma candidature à la thèse intitulée « In-Context Learning for Multivariate Prediction ». Je viens de terminer mon stage de fin d’études au sein de l’équipe Mnémosyne d’INRIA Bordeaux, dans le cadre de ma formation d’ingénieur en intelligence artificielle et sciences cognitives à l’ENSC, Bordeaux INP. Je suis disponible à partir de mi-octobre 2026.
+Je souhaite vous proposer ma candidature à la thèse intitulée « In-Context Learning for Multivariate Prediction ». Je viens de terminer mon stage de fin d’études au sein de l’équipe Mnémosyne d’INRIA Bordeaux, dans le cadre de ma formation d’ingénieur en intelligence artificielle et sciences cognitives à l’ENSC, Bordeaux INP.
 
 Mon parcours a commencé par deux années de classe préparatoire PCSI puis PSI. Cette formation exigeante m’a apporté de solides bases en mathématiques et en physique, ainsi qu’une méthode de travail rigoureuse. Elle m’a appris à formaliser des problèmes complexes, à raisonner avec précision et à persévérer face à des questions difficiles. J’ai ensuite choisi de poursuivre dans l’intelligence artificielle afin de mettre ces compétences au service de problématiques de recherche et de développement.
 
@@ -18,4 +16,4 @@ Autonome, curieux et persévérant, je serais heureux de contribuer à ce projet
 
 Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
 
-Frédéric Andrian
+Frédéric Andriantseheno
